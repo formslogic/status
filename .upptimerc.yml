@@ -15,12 +15,12 @@ sites:
     url: $STAGING_URL 
   - name: New York Location IPv/6
     url: $NYC3_CLUSTER
-    port: 443
+    port: 80
     check: "tcp-ping"
     ipv6: true
   - name: New York Location IPv/4
     url: $NYC3_CLUSTER
-    port: 443
+    port: 80
     check: "tcp-ping"
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -30,7 +30,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://cdn.formslogicplatform.com/img/logos/formslogic_logo1_small.png
   name: Formslogic
-  introTitle: "**Forms Logic** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introTitle: "**Forms Logic** Join the growing number of advisors who trust Forms Logic to handle their paperwork with precision and ease. Let us help you focus on what you do best—providing exceptional financial guidance to your clients."
   introMessage: Revolutionize your paperwork process with Forms Logic. Our digital platform for advisors streamlines client onboarding, enhances accuracy, and ensures compliance. Join the revolution today and experience efficiency like never before.
   navbar:
     - title: Status
