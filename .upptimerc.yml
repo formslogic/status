@@ -36,9 +36,10 @@ status-website:
   navbar:
     - title: Status
       href: /
+    - title: security
+      href: https://security.Formslogic.com
     - title: Formslogic.com
       href: https://www.Formslogic.com
-
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 commitMessages:
