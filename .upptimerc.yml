@@ -31,8 +31,11 @@ status-website:
   logoUrl: https://cdn.formslogicplatform.com/img/logos/formslogic_logo1_small.png
   themeUrl: https://status.formslogic.com/my-custom-theme.css
   name: Formslogic
-  introTitle: "**Forms Logic** Join the growing number of advisors who trust Forms Logic to handle their paperwork with precision and ease. Let us help you focus on what you do best—providing exceptional financial guidance to your clients."
-  introMessage: Revolutionize your paperwork process with Forms Logic. Our digital platform for advisors streamlines client onboarding, enhances accuracy, and ensures compliance. Join the revolution today and experience efficiency like never before.
+  introTitle: "**Forms Logic Status Page**"
+  introMessage:  |
+    Stay updated on the current performance and availability of Forms Logic services. We’re committed to providing advisors with seamless paperwork processing, from client onboarding to compliance. Check here for real-time system updates and ensure your workflow remains uninterrupted.
+    
+    For more information on past incidents or to report an issue, please visit our support center.
   navbar:
     - title: Status
       href: /
