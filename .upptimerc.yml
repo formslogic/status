@@ -29,7 +29,7 @@ status-website:
   theme: night 
   # baseUrl: /your-repo-name
   logoUrl: https://cdn.formslogicplatform.com/img/logos/formslogic_logo1_small.png
-  themeUrl: https://status.formslogic.com/fl-theme.css
+  themeUrl: https://status.formslogic.com/my-custom-theme.css
   name: Formslogic
   introTitle: "**Forms Logic** Join the growing number of advisors who trust Forms Logic to handle their paperwork with precision and ease. Let us help you focus on what you do best—providing exceptional financial guidance to your clients."
   introMessage: Revolutionize your paperwork process with Forms Logic. Our digital platform for advisors streamlines client onboarding, enhances accuracy, and ensures compliance. Join the revolution today and experience efficiency like never before.
