@@ -1,0 +1,26 @@
+:root {
+  --body-background-color: #f0f8ff;
+  --body-text-color: #1a1a1a;
+  --card-background-color: #ffffff;
+  --nav-background-color: #e6f2fa;
+  --nav-border-bottom-color: #68b6ee;
+  --nav-current-border-bottom-color: rgb(104, 182, 238);
+  --card-border-color: #1a5a7a;
+  --down-border-left-color: #cc4a5c;
+  --down-background-color: #8b1e1e0a;
+  --degraded-border-left-color: #f7b731;
+  --up-border-left-color: #22993d;
+  --tag-color: #0d1117;
+  --tag-up-background-color: #1e7c3d;
+  --tag-down-background-color: #d94f4f;
+  --tag-degraded-background-color: #f7b731;
+  --change-background-color: #ffdc73;
+  --error-button-border-color: #1a46ad;
+  --error-button-background-color: #3867d6;
+  --error-button-color: #ffffff;
+  --submit-button-border-color: #1a46ad;
+  --submit-button-background-color: #68b6ee;
+  --submit-button-color: #ffffff;
+  --graph-opacity: 1;
+  --graph-filter: brightness(0.45) sepia(1) hue-rotate(88deg) saturate(6);
+}
