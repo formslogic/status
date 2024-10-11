@@ -52,7 +52,7 @@
     "timeMonth": 236,
     "timeYear": 236,
     "dailyMinutesDown": {
-      "2024-10-11": 13,
+      "2024-10-11": 1187,
       "2024-10-10": 1440,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
@@ -78,7 +78,7 @@
     "slug": "staging",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +87,9 @@
     "timeWeek": 497,
     "timeMonth": 461,
     "timeYear": 461,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-11": 0
+    }
   },
   {
     "name": "New York Location IPv/6",
@@ -106,7 +108,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-11": 13,
+      "2024-10-11": 1187,
       "2024-10-10": 1440,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
@@ -142,7 +144,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-11": 13,
+      "2024-10-11": 1187,
       "2024-10-10": 1440,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
