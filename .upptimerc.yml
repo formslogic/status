@@ -9,19 +9,19 @@ sites:
     url: https://www.formslogic.com
   - name: Production
     url: $PRODUCTION_URL 
-  - name: Production API
-    url: $API_URL    
+ # - name: Production API
+ #   url: $API_URL    
   - name: Staging
     url: $STAGING_URL 
-  - name: New York Location IPv/6
-    url: $NYC3_CLUSTER
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
-  - name: New York Location IPv/4
-    url: $NYC3_CLUSTER
-    port: 80
-    check: "tcp-ping"
+ # - name: New York Location IPv/6
+ #   url: $NYC3_CLUSTER
+ #   port: 80
+ #   check: "tcp-ping"
+ #   ipv6: true
+ # - name: New York Location IPv/4
+ #   url: $NYC3_CLUSTER
+ #   port: 80
+ #   check: "tcp-ping"
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
