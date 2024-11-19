@@ -1,7 +1,7 @@
 url: $STAGING_URL
-status: up
-code: 200
-responseTime: 667
-lastUpdated: 2024-11-19T12:19:41.606Z
+status: down
+code: 503
+responseTime: 310
+lastUpdated: 2024-11-19T22:29:44.936Z
 startTime: 2024-09-25T07:21:48.837Z
 generator: Upptime <https://github.com/upptime/upptime>
