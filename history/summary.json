@@ -15,7 +15,9 @@
     "timeWeek": 628,
     "timeMonth": 663,
     "timeYear": 573,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-30": 0
+    }
   },
   {
     "name": "Production",
