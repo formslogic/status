@@ -1,6 +1,10 @@
 # Change these first
 owner: formslogic # Your GitHub organization or username, where this repository lives
 repo: status # The name of this repository
+user-agent: formslogic
+secrets:
+  - PRODUCTION_URL
+  - STAGING_URL
 assignees:
   - jhoelzel
   - fl-jhoelzel
@@ -8,11 +12,11 @@ sites:
   - name: Formslogic.com
     url: https://www.formslogic.com
   - name: Production
-    url: $PRODUCTION_URL 
+    url: $PRODUCTION_URL
  # - name: Production API
  #   url: $API_URL    
   - name: Staging
-    url: $STAGING_URL 
+    url: $STAGING_URL
  # - name: New York Location IPv/6
  #   url: $NYC3_CLUSTER
  #   port: 80
@@ -26,7 +30,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.formslogic.com
-  theme: night 
+  theme: night
   # baseUrl: /your-repo-name
   logoUrl: https://cdn.formslogicplatform.com/img/logos/formslogic_logo1_small.png
   themeUrl: https://status.formslogic.com/my-custom-theme.css
