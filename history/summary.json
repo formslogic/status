@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 558,
-    "timeDay": 442,
-    "timeWeek": 429,
-    "timeMonth": 486,
+    "timeDay": 424,
+    "timeWeek": 425,
+    "timeMonth": 480,
     "timeYear": 614,
     "dailyMinutesDown": {
       "2025-11-15": 21
@@ -31,14 +31,32 @@
     "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 238,
-    "timeDay": 123,
-    "timeWeek": 161,
-    "timeMonth": 175,
+    "timeDay": 117,
+    "timeWeek": 156,
+    "timeMonth": 171,
     "timeYear": 256,
     "dailyMinutesDown": {
       "2025-11-06": 14,
       "2026-08-04": 8
     }
+  },
+  {
+    "name": "Production IPV6",
+    "url": "$PRODUCTION_URL",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "production-ipv-6",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 44,
+    "timeDay": 44,
+    "timeWeek": 44,
+    "timeMonth": 44,
+    "timeYear": 44,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Staging",
@@ -52,10 +70,28 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 301,
-    "timeDay": 220,
-    "timeWeek": 226,
-    "timeMonth": 231,
+    "timeDay": 236,
+    "timeWeek": 230,
+    "timeMonth": 233,
     "timeYear": 327,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Staging IPV6",
+    "url": "$STAGING_URL",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "staging-ipv-6",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 51,
+    "timeDay": 51,
+    "timeWeek": 51,
+    "timeMonth": 51,
+    "timeYear": 51,
     "dailyMinutesDown": {}
   }
 ]
