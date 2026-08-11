@@ -30,6 +30,8 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.formslogic.com
+  # Reduce unauthenticated GitHub API usage by caching incident data for one hour per browser.
+  productionCacheTime: 3600000
   theme: night
   # baseUrl: /your-repo-name
   logoUrl: https://cdn.formslogicplatform.com/img/logos/formslogic_logo1_small.png
