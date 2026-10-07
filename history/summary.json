@@ -63,27 +63,29 @@
     "url": "$STAGING_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "staging",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 305,
+    "time": 304,
     "timeDay": 268,
     "timeWeek": 318,
     "timeMonth": 283,
     "timeYear": 307,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-07": 1
+    }
   },
   {
     "name": "Staging IPV6",
     "url": "$STAGING_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "staging-ipv-6",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -92,6 +94,8 @@
     "timeWeek": 148,
     "timeMonth": 133,
     "timeYear": 132,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-07": 0
+    }
   }
 ]
